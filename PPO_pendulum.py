@@ -3,7 +3,7 @@ A simple version of Proximal Policy Optimization (PPO)
 Based on:
 1. [https://arxiv.org/abs/1707.02286]
 2. [https://arxiv.org/abs/1707.06347]
-View more on my tutorial website: https://morvanzhou.github.io/tutorials
+View more on this tutorial website: https://morvanzhou.github.io/tutorials
 """
 import tensorflow as tf
 import numpy as np
