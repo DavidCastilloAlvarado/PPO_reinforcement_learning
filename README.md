@@ -2,7 +2,7 @@
 How to implement a simple PPO using tensorflow
 ![alt text](https://github.com/DavidCastilloAlvarado/PPO_reinforcement_learning/raw/master/Screenshot%20from%202018-04-01%2020-24-34.png)
 
-If you like more material like this please suscribe to my channel
+If you like more material like this please suscribe to my channel.
 https://www.youtube.com/channel/UCf0AQymPRhDDs9wFFnVeh6A
 
 # Dependencies:
